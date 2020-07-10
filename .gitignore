@@ -7,3 +7,8 @@
 *.iml
 out
 gen
+.mvn
+.gitignore
+mvnw
+mvnw.cmd
+target
