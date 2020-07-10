@@ -1,3 +1,4 @@
+/*
 package com.wsw.dubbocousmer.Test;
 
 import com.wsw.dubboapi.api.service.CalculatorService;
@@ -16,3 +17,4 @@ public class MyRun implements ApplicationRunner {
         System.out.println(calculatorService.add(2, 6));
     }
 }
+*/
